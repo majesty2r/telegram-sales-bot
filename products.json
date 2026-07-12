@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "price": 1500,
+    "currency": "KES",
+    "description": "100% cotton, unisex, available in S/M/L/XL.",
+    "image_url": ""
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "price": 3500,
+    "currency": "KES",
+    "description": "Bluetooth 5.0, 20hr battery life, comes with charging case.",
+    "image_url": ""
+  },
+  {
+    "id": 3,
+    "name": "Leather Wallet",
+    "price": 2200,
+    "currency": "KES",
+    "description": "Genuine leather, 6 card slots, coin pocket.",
+    "image_url": ""
+  },
+  {
+    "id": 4,
+    "name": "Scented Candle Set",
+    "price": 1800,
+    "currency": "KES",
+    "description": "Set of 3 candles: vanilla, lavender, and citrus.",
+    "image_url": ""
+  }
+]
