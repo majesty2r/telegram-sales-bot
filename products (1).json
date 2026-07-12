@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Gemini Pro 12 Month",
+    "price": 4,
+    "currency": "USD",
+    "description": "Gemini Pro subscription — 12 months.",
+    "image_url": "",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Gemini Pro 18 Month",
+    "price": 6,
+    "currency": "USD",
+    "description": "Gemini Pro subscription — 18 months.",
+    "image_url": "",
+    "stock": 13
+  },
+  {
+    "id": 3,
+    "name": "ChatGPT Plus 1 Month",
+    "price": 20,
+    "currency": "USD",
+    "description": "ChatGPT Plus subscription — 1 month.",
+    "image_url": "",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "ChatGPT Pro 5x 1 Month",
+    "price": 98,
+    "currency": "USD",
+    "description": "ChatGPT Pro 5x subscription — 1 month.",
+    "image_url": "",
+    "stock": 14
+  },
+  {
+    "id": 5,
+    "name": "ChatGPT Pro 20x 1 Month",
+    "price": 180,
+    "currency": "USD",
+    "description": "ChatGPT Pro 20x subscription — 1 month.",
+    "image_url": "",
+    "stock": 10
+  }
+]
