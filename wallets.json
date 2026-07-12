@@ -1,14 +1,14 @@
 [
   {
     "coin": "USDT (TRC20 - Tron network)",
-    "address": "PASTE_YOUR_USDT_TRC20_ADDRESS_HERE"
+    "address": "TEJNCtvbUFJfECcNxDWk6ayVs5Hyar638n"
   },
   {
     "coin": "Bitcoin (BTC)",
-    "address": "PASTE_YOUR_BTC_ADDRESS_HERE"
+    "address": "15YsGfRALBTDwVWeQUEVywyvohSVTNaR2n"
   },
   {
     "coin": "Ethereum (ETH)",
-    "address": "PASTE_YOUR_ETH_ADDRESS_HERE"
+    "address": "0xdd3f7e7cd010c50d294097f20de441c5733172e8"
   }
 ]
