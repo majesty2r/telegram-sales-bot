@@ -4,7 +4,7 @@
     "name": "Claude ai KYC",
     "price": 4,
     "currency": "USD",
-    "description": "Gemini Pro subscription — 12 months.",
+    "description": "provide claude verification link for kyc.",
     "image_url": "",
     "stock": 10
   },
