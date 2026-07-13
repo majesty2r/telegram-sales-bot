@@ -10,26 +10,26 @@
   },
   {
     "id": 2,
-    "name": "Gemini Pro 18 Month",
+    "name": "Gptcyber KYC",
     "price": 6,
     "currency": "USD",
-    "description": "Gemini Pro subscription — 18 months.",
+    "description": "Account should be 30 days old for high success rate.",
     "image_url": "",
     "stock": 13
   },
   {
     "id": 3,
-    "name": "ChatGPT Plus 1 Month",
+    "name": "ChatGPT Plus 1 Month subscription",
     "price": 20,
     "currency": "USD",
-    "description": "ChatGPT Plus subscription — 1 month.",
+    "description": "ChatGPT Plus subscription — 1 month top up",
     "image_url": "",
     "stock": 5
   },
   {
     "id": 4,
-    "name": "ChatGPT Pro 5x 1 Month",
-    "price": 98,
+    "name": "ChatGPT Pro 5x 1 Month subscription top up",
+    "price": 100,
     "currency": "USD",
     "description": "ChatGPT Pro 5x subscription — 1 month.",
     "image_url": "",
@@ -37,8 +37,8 @@
   },
   {
     "id": 5,
-    "name": "ChatGPT Pro 20x 1 Month",
-    "price": 180,
+    "name": "ChatGPT Pro 20x 1 Month subscription Top up",
+    "price": 200,
     "currency": "USD",
     "description": "ChatGPT Pro 20x subscription — 1 month.",
     "image_url": "",
